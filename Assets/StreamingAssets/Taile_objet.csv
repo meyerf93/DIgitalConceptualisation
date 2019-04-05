@@ -1,0 +1,10 @@
+Taille_objet;ID;Nom;Dimension;Image;Score min etoiles
+;1;longeur petit;5;Image/Fond_toggle;0
+;2;longeur moyen;7;Image/Fond_toggle;0
+;3;longeur grand;9;Image/Fond_toggle;0
+;4;hauteur petit;5;Image/Fond_toggle;5
+;5;hauteur moyen;7;Image/Fond_toggle;10
+;6;hauteur grand;9;Image/Fond_toggle;0
+;7;profondeur petit;5;Image/Fond_toggle;0
+;8;profondeur moyen;7;Image/Fond_toggle;0
+;9;profondeur grand;9;Image/Fond_toggle;0

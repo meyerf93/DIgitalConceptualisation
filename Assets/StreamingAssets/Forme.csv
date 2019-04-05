@@ -1,0 +1,18 @@
+Forme;ID;Nom;Image;Score min etoiles
+;1;Sphere;Image/Fond_toggle;0
+;2;Cube;Image/Fond_toggle;0
+;3;Parrallelepiped;Image/Fond_toggle;0
+;4;Tetrahedron;Image/Fond_toggle;5
+;5;Hexaconal prism;Image/Fond_toggle;10
+;6;Cone;Image/Fond_toggle;0
+;7;Tor;Image/Fond_toggle;0
+;8;Prism;Image/Fond_toggle;0
+;9;Triangular prism;Image/Fond_toggle;0
+;10;Cercle;Image/Fond_toggle;0
+;11;Triangle;Image/Fond_toggle;0
+;12;Carre;Image/Fond_toggle;0
+;13;Rectangle;Image/Fond_toggle;0
+;14;Losange;Image/Fond_toggle;0
+;15;Trapeze;Image/Fond_toggle;0
+;16;Elipse;Image/Fond_toggle;0
+;17;Pentagon;Image/Fond_toggle;0
