@@ -3,14 +3,17 @@ Technique;ID;Nom;Image;Score min etoiles
 ;2;En enlevant de la matiere;Image/Fond_toggle;0
 ;3;En ajoutant de la matiere;Image/Fond_toggle;0
 ;4;En pressant la matiere;Image/Fond_toggle;5
-;5;Poncage;Image/Fond_toggle;15
+;5;Poncage grossier;Image/Fond_toggle;15
 ;6;Tracage;Image/Fond_toggle;5
 ;7;Decalcage;Image/Fond_toggle;5
 ;8;Decoupe au cutter;Image/Fond_toggle;0
 ;9;Decoupe au ciseaux;Image/Fond_toggle;0
-;10;Poncage;Image/Fond_toggle;0
-;11;Peinture;Image/Fond_toggle;0
-;12;Poinsonnage;Image/Fond_toggle;0
-;13;Persage;Image/Fond_toggle;0
-;14;Prise de messrure;Image/Fond_toggle;0
-;15;Pyrogravure;Image/Fond_toggle;0
+;10;Decoupe a la scie;Image/Fond_toggle;0
+;11;Poncage fin;Image/Fond_toggle;0
+;12;Peinture;Image/Fond_toggle;0
+;13;Poinsonnage;Image/Fond_toggle;0
+;14;Persage;Image/Fond_toggle;0
+;15;Prise de messrure;Image/Fond_toggle;0
+;16;Pyrogravure;Image/Fond_toggle;0
+;17;Torsader ;Image/Fond_toggle;0
+;18;Plier;Image/Fond_toggle;0

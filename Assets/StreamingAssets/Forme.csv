@@ -1,5 +1,5 @@
 Forme;ID;Nom;Image;Score min etoiles
-;1;Sphere;Image/Fond_toggle;0
+;1;Sphere;Photophore;0
 ;2;Cube;Image/Fond_toggle;0
 ;3;Parrallelepiped;Image/Fond_toggle;0
 ;4;Tetrahedron;Image/Fond_toggle;5

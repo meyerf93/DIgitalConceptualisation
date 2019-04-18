@@ -1,10 +1,10 @@
 Justification_materiel;ID;Nom;Image;Score min etoiles
-;1;Torsion;Image/Fond_toggle;0
-;2;Elasticite;Image/Fond_toggle;0
-;3;Resistance chimique;Image/Fond_toggle;0
-;4;Transparence;Image/Fond_toggle;5
-;5;Rigidite;Image/Fond_toggle;10
-;6;Conductivite electrique;Image/Fond_toggle;0
-;7;Conductivite thermique;Image/Fond_toggle;0
-;8;Biodegradation;Image/Fond_toggle;0
-;9;Durete;Image/Fond_toggle;0
+;1;Torsion;Fond_toggle;0
+;2;Elasticite;Fond_toggle;0
+;3;Resistance chimique;Fond_toggle;0
+;4;Transparence;Fond_toggle;5
+;5;Rigidite;Fond_toggle;10
+;6;Conductivite electrique;Fond_toggle;0
+;7;Conductivite thermique;Fond_toggle;0
+;8;Biodegradation;Fond_toggle;0
+;9;Durete;Fond_toggle;0

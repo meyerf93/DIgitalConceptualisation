@@ -1,24 +1,24 @@
 Sous_categorie_Materiaux;ID;Nom;Image;Score min etoiles;
-;1;Organique;Image/Fond_toggle;0;
-;2;Non-organique;Image/Fond_toggle;0;
-;3;Metalique;Image/Fond_toggle;0;
-;4;Plastique;Image/Fond_toggle;0;
+;1;Organique;Fond_toggle;0;
+;2;Non-organique;Fond_toggle;0;
+;3;Metalique;Fond_toggle;0;
+;4;Plastique;Fond_toggle;0;
 Materiaux;ID;Nom;Image;Score min etoiles;Sous categorie Materiaux
-;1;Fil de fer;Image/Fond_toggle;0;3
-;2;Plaque metallique;Image/Fond_toggle;0;3
-;3;Laine de fer;Image/Fond_toggle;0;3
-;4;Anneaux;Image/Fond_toggle;5;3
-;5;Plexiglas;Image/Fond_toggle;10;4
-;6;Sagex;Image/Fond_toggle;0;4
-;7;Tissus plastique;Image/Fond_toggle;0;4
-;8;Bouteille PET;Image/Fond_toggle;0;4
-;9;Bille;Image/Fond_toggle;0;1
-;10;Bois;Image/Fond_toggle;0;1
-;11;Papier;Image/Fond_toggle;0;1
-;12;Carton;Image/Fond_toggle;0;1
-;13;Ouate;Image/Fond_toggle;0;1
-;14;Tissus organique;Image/Fond_toggle;0;1
-;15;Poterie;Image/Fond_toggle;0;2
-;16;Roche;Image/Fond_toggle;0;2
-;17;Verre;Image/Fond_toggle;0;2
-;18;Sable;Image/Fond_toggle;0;2
+;1;Fil de fer;Fond_toggle;0;3
+;2;Plaque metallique;Fond_toggle;0;3
+;3;Laine de fer;Fond_toggle;0;3
+;4;Anneaux;Fond_toggle;5;3
+;5;Plexiglas;Fond_toggle;10;4
+;6;Sagex;Fond_toggle;0;4
+;7;Tissus plastique;Fond_toggle;0;4
+;8;Bouteille PET;Fond_toggle;0;4
+;9;Bille;Fond_toggle;0;1
+;10;Bois;Fond_toggle;0;1
+;11;Papier;Fond_toggle;0;1
+;12;Carton;Fond_toggle;0;1
+;13;Ouate;Fond_toggle;0;1
+;14;Tissus organique;Fond_toggle;0;1
+;15;Poterie;Fond_toggle;0;2
+;16;Roche;Fond_toggle;0;2
+;17;Verre;Fond_toggle;0;2
+;18;Sable;Fond_toggle;0;2
